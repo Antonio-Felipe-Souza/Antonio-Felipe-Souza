@@ -3,6 +3,6 @@
 ## Olá👋 
 Eu sou o Felipe Souza!
 
-Atualmente aluno da SPTech School, cursando Análise e Desenvolvimento de Sistemas (2/5).
+Atualmente aluno da SPTech School, cursando Análise e Desenvolvimento de Sistemas (3/5).
 
 -Compilando meu caminho através do vasto universo da programação, explorando novos horizontes a cada linha de código escrita!
