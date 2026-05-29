@@ -42,3 +42,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Antonio-Felipe-Souza/Antonio-Felipe-Souza/snake-output/snake.svg" alt="Snake animation" />
+
+###
