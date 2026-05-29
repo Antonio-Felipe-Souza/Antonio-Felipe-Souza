@@ -2,6 +2,8 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&letterSpacing=.2rem&pause=1000&color=5407F7&width=435&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Antonio+Felipe" alt="mensagem de boas vindas"> </p>
+
 ###
 
 <div align="center">
