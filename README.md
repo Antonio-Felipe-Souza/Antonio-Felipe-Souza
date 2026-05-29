@@ -15,7 +15,6 @@ Atualmente curso Análise e Desenvolvimento de Sistemas pela SPTech School, com 
 
 ###
 
-<br clear="both">
 
 ### Tecnologias
 
@@ -51,8 +50,6 @@ Atualmente curso Análise e Desenvolvimento de Sistemas pela SPTech School, com 
 </div>
 
 ###
-
-<br clear="both">
 
 ### Redes
 
