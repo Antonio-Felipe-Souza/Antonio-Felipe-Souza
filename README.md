@@ -9,14 +9,15 @@
 **`Desenvolvedor Full-Stack`**
 
 
+Bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará alguns dos meus projetos, estudos, testes e experiências desenvolvidas em diferentes áreas da tecnologia e do desenvolvimento de software.
+###
 Atualmente curso Análise e Desenvolvimento de Sistemas pela SPTech School, com foco em desenvolvimento Full Stack utilizando tecnologias como React, Java com Spring Boot, MySQL e Docker. Também possuo experiência com práticas de CI/CD, versionamento com Git e integração de aplicações, além da certificação Microsoft Azure AZ-900 voltada para fundamentos de cloud computing.
 
-<br>
+###
 
-<div align="center" style="display: flex; align-items: center; gap: 10px;"> <a href="https://www.linkedin.com/in/antonio-felipe-souza" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /> </a> <span>Conecte-se comigo no LinkedIn
-</span> </div>
+### Tecnologias
 
-<br>
+###
 
 <div align="center">
  <img width="45%" height="200px" src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=Antonio-Felipe-Souza&layout=compact&langs_count=10&hide_border=true&title_color=A9A9A9&text_color=FFF&bg_color=0d1117" />
@@ -48,6 +49,9 @@ Atualmente curso Análise e Desenvolvimento de Sistemas pela SPTech School, com 
 </div>
 
 ###
+
+<div align="left" style="display: flex; align-items: center; gap: 10px;"> <a href="https://www.linkedin.com/in/antonio-felipe-souza" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /> </a> <span>Conecte-se comigo</span>
+</div>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
