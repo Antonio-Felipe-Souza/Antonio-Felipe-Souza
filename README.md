@@ -2,7 +2,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&letterSpacing=.2rem&pause=1000&color=5407F7&width=435&lines=Ol%C3%A1%2C+Sou+o++Antonio+Felipe" </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&letterSpacing=.2rem&pause=1000&color=5407F7&width=435&lines=Ol%C3%A1%2C+Sou+o++Antonio+Felipe!" </p>
 
 ###
 
@@ -14,6 +14,8 @@ Bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará alguns dos meus pro
 Atualmente curso Análise e Desenvolvimento de Sistemas pela SPTech School, com foco em desenvolvimento Full Stack utilizando tecnologias como React, Java com Spring Boot, MySQL e Docker. Também possuo experiência com práticas de CI/CD, versionamento com Git e integração de aplicações, além da certificação Microsoft Azure AZ-900 voltada para fundamentos de cloud computing.
 
 ###
+
+<br clear="both">
 
 ### Tecnologias
 
@@ -49,6 +51,12 @@ Atualmente curso Análise e Desenvolvimento de Sistemas pela SPTech School, com 
 </div>
 
 ###
+
+<br clear="both">
+
+### Redes
+
+<br clear="both">
 
 <div align="left" style="display: flex; align-items: center; gap: 10px;"> <a href="https://www.linkedin.com/in/antonio-felipe-souza" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /> </a> <span>Conecte-se comigo</span>
 </div>
