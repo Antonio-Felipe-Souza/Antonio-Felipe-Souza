@@ -2,7 +2,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&letterSpacing=.2rem&pause=1000&color=5407F7&width=435&lines=Ol%C3%A1%2C!+Sou+o++Antonio+Felipe" </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&letterSpacing=.2rem&pause=1000&color=5407F7&width=435&lines=Ol%C3%A1%2C+Sou+o++Antonio+Felipe" </p>
 
 ###
 
@@ -10,10 +10,6 @@
  <img width="45%" height="200px" src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=Antonio-Felipe-Souza&layout=compact&langs_count=10&hide_border=true&title_color=A9A9A9&text_color=FFF&bg_color=0d1117" />
   <img src="https://streak-stats.demolab.com?user=Antonio-Felipe-Souza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<!-- <h2 align="left">Technologies</h2> -->
 
 ###
 
