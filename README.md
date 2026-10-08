@@ -11,7 +11,7 @@
 
 Bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará alguns dos meus projetos, estudos, testes e experiências desenvolvidas em diferentes áreas da tecnologia e do desenvolvimento de software.
 ###
-Formado em Análise e Desenvolvimento de Sistemas pela SPTech School, com foco em desenvolvimento Full Stack utilizando tecnologias como React, Java com Spring Boot, MySQL e Docker. Também possuo experiência com práticas de CI/CD, versionamento com Git e integração de aplicações, além da certificação Microsoft Azure AZ-900 voltada para fundamentos de cloud computing.
+Formado em Análise e Desenvolvimento de Sistemas pela SPTech School, com foco em desenvolvimento **Back-end**. Trabalho principalmente com Java e Spring Boot na construção de APIs REST, com modelagem e persistência de dados em MySQL. Tenho experiência com Docker, versionamento com Git e pipelines de CI/CD com GitHub Actions, além de contato com AWS e infraestrutura como código com Terraform. Também sou certificado Microsoft Azure AZ-900, com base em fundamentos de cloud computing, e tenho familiaridade com React para integrar o back-end a aplicações front-end.
 
 ###
 
